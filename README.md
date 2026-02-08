@@ -33,6 +33,6 @@ contactos-db/
 ## Autora
 Maria Alejandra Cano Vallejo  
 Grupo: 1191  
-Materia: Departamento Técnico  
+Materia: Base de datos MySQL 
 Profesor: Juan david nieto
 # contactos_db
