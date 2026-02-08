@@ -34,5 +34,5 @@ contactos-db/
 Maria Alejandra Cano Vallejo  
 Grupo: 1191  
 Materia: Departamento Técnico  
-Profesor: Eduardo Arias López
+Profesor: Juan david nieto
 # contactos_db
